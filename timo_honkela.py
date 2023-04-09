@@ -14,9 +14,11 @@ for line in lines:
 	a=0
 	if len(line.split()) == 1:
 		tabs = "\t"
-		a+=1
+	
 	else:
 		tabs = ""
+	
 	print(tabs*a + line)
+	a+=1
 	time.sleep(0.8)
 
