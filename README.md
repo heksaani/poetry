@@ -1,2 +1,2 @@
 # poetry
-Writing poetry using different languages and creating codes that "speak" poems not written by me 
+Writing poetry using different languages and creating codes that "speak" poems not written by me or by me 
